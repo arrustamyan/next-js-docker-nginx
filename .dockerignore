@@ -1,0 +1,14 @@
+# Ignore Next.js development folders
+node_modules
+.next
+
+# Ignore Next.js build artifacts
+out
+build
+
+# Ignore Next.js cache folders
+.cache
+.next-cache
+
+# Ignore Next.js logs
+*.log
